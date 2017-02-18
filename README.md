@@ -8,6 +8,7 @@ http://nbviewer.jupyter.org/github/OxanaSachenkova/hclust-python/blob/master/hcl
 
 http://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering
 
+https://github.com/nborwankar/LearnDataScience/blob/master/notebooks/D2.%20K-Means%20Clustering%20-%20Data%20Exploration.ipynb
 
 General Python
 
