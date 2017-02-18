@@ -21,3 +21,7 @@ www.datascientistworkbench.com
 http://stackoverflow.com/questions/40554179/how-to-keep-column-names-when-converting-from-pandas-to-numpy
 
 http://stackoverflow.com/questions/32387266/converting-categorical-values-to-binary-using-pandas
+
+Numpy (transformations)
+
+http://stackoverflow.com/questions/7561017/get-the-column-names-of-a-python-numpy-ndarray
