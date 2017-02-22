@@ -25,3 +25,9 @@ http://stackoverflow.com/questions/32387266/converting-categorical-values-to-bin
 Numpy (transformations)
 
 http://stackoverflow.com/questions/7561017/get-the-column-names-of-a-python-numpy-ndarray
+
+Imputing missing_values
+
+http://stackoverflow.com/questions/27824954/how-to-handle-missing-nans-for-machine-learning-in-python
+
+https://pypi.python.org/pypi/fancyimpute
