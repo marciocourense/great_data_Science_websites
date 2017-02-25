@@ -33,3 +33,11 @@ Imputing missing_values
 http://stackoverflow.com/questions/27824954/how-to-handle-missing-nans-for-machine-learning-in-python
 
 https://pypi.python.org/pypi/fancyimpute
+
+Next reads
+
+http://machinelearningmastery.com/time-series-forecast-study-python-monthly-sales-french-champagne/
+
+https://www.kaggle.com/arthurtok/titanic/introduction-to-ensembling-stacking-in-python
+
+https://github.com/bhimmetoglu/kaggle_101/tree/master/HousePrices
