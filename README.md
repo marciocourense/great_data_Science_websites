@@ -41,3 +41,11 @@ http://machinelearningmastery.com/time-series-forecast-study-python-monthly-sale
 https://www.kaggle.com/arthurtok/titanic/introduction-to-ensembling-stacking-in-python
 
 https://github.com/bhimmetoglu/kaggle_101/tree/master/HousePrices
+
+https://github.com/Kaggle/docker-rstats
+
+Preparation for interviews
+
+http://www.kdnuggets.com/2017/02/17-data-science-interview-questions-answers-part-2.html?utm_content=bufferb4731&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+
+
