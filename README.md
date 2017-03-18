@@ -36,9 +36,9 @@ https://pypi.python.org/pypi/fancyimpute
 
 Next reads
 
-https://www.kaggle.com/arthurtok/titanic/introduction-to-ensembling-stacking-in-python
+https://www.youtube.com/watch?v=qy0fDqoMJx8
 
-https://github.com/bhimmetoglu/kaggle_101/tree/master/HousePrices
+https://www.kaggle.com/arthurtok/titanic/introduction-to-ensembling-stacking-in-python
 
 https://github.com/Kaggle/docker-rstats
 
