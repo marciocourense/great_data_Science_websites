@@ -36,8 +36,6 @@ https://pypi.python.org/pypi/fancyimpute
 
 Next reads
 
-http://machinelearningmastery.com/time-series-forecast-study-python-monthly-sales-french-champagne/
-
 https://www.kaggle.com/arthurtok/titanic/introduction-to-ensembling-stacking-in-python
 
 https://github.com/bhimmetoglu/kaggle_101/tree/master/HousePrices
