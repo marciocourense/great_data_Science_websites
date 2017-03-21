@@ -12,6 +12,10 @@ https://github.com/nborwankar/LearnDataScience/blob/master/notebooks/D2.%20K-Mea
 
 https://github.com/nborwankar/LearnDataScience
 
+Improving performance of k-means
+
+http://www.kdnuggets.com/2017/03/naive-sharding-centroid-initialization-method.html
+
 General Python
 
 http://corepython.com/
