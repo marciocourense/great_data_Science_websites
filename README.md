@@ -55,3 +55,7 @@ http://www.kdnuggets.com/2017/02/17-data-science-interview-questions-answers-par
 Regularization
 
 http://stats.stackexchange.com/questions/1194/practical-thoughts-on-explanatory-vs-predictive-modeling
+
+Cool Visualizations
+
+http://matplotlib.org/examples/pie_and_polar_charts/polar_bar_demo.html
