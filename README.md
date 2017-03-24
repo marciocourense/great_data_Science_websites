@@ -59,3 +59,13 @@ http://stats.stackexchange.com/questions/1194/practical-thoughts-on-explanatory-
 Cool Visualizations
 
 http://matplotlib.org/examples/pie_and_polar_charts/polar_bar_demo.html
+
+a/b testing
+
+https://medium.com/blueprint-by-intuit/open-sourcing-wasabi-the-a-b-testing-platform-by-intuit-a8d5abc958d#.arn5mlxi4
+
+https://www.youtube.com/watch?v=AuQXipyv520
+
+http://rpsychologist.com/d3/NHST/
+
+http://stats.stackexchange.com/questions/192752/clustering-and-a-b-testing
