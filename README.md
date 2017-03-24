@@ -69,3 +69,5 @@ https://www.youtube.com/watch?v=AuQXipyv520
 http://rpsychologist.com/d3/NHST/
 
 http://stats.stackexchange.com/questions/192752/clustering-and-a-b-testing
+
+https://conversionxl.com/one-tailed-vs-two-tailed-tests/
