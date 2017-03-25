@@ -71,3 +71,7 @@ http://rpsychologist.com/d3/NHST/
 http://stats.stackexchange.com/questions/192752/clustering-and-a-b-testing
 
 https://conversionxl.com/one-tailed-vs-two-tailed-tests/
+
+https://speakerdeck.com/nneu/b-testing-a-bayesian-approach
+
+https://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/
