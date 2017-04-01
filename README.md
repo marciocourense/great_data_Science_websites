@@ -60,6 +60,8 @@ http://matplotlib.org/examples/pie_and_polar_charts/polar_bar_demo.html
 
 a/b testing
 
+https://blog.twitter.com/2015/detecting-and-avoiding-bucket-imbalance-in-ab-tests
+
 https://medium.com/blueprint-by-intuit/open-sourcing-wasabi-the-a-b-testing-platform-by-intuit-a8d5abc958d#.arn5mlxi4
 
 https://www.youtube.com/watch?v=AuQXipyv520
