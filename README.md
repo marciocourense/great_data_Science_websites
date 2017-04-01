@@ -40,13 +40,11 @@ https://pypi.python.org/pypi/fancyimpute
 
 Next reads
 
-https://www.youtube.com/watch?v=qy0fDqoMJx8
-
 https://www.kaggle.com/arthurtok/titanic/introduction-to-ensembling-stacking-in-python
 
-https://github.com/Kaggle/docker-rstats
+http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial
 
-http://pandas.pydata.org/pandas-docs/stable/enhancingperf.html
+http://greenteapress.com/thinkstats/
 
 Preparation for interviews
 
