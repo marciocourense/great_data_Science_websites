@@ -46,6 +46,8 @@ http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial
 
 http://greenteapress.com/thinkstats/
 
+https://www.linkedin.com/pulse/apache-spark-rdd-vs-dataframe-dataset-chandan-prakash
+
 Preparation for interviews
 
 http://www.kdnuggets.com/2017/02/17-data-science-interview-questions-answers-part-2.html?utm_content=bufferb4731&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
