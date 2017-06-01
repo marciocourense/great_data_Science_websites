@@ -83,3 +83,7 @@ https://www.coursera.org/learn/machine-learning/lecture/S1bq1/choosing-the-numbe
 
 books
 http://greenteapress.com/thinkstats/
+
+https://github.com/joelgrus/data-science-from-scratch
+
+
