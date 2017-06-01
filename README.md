@@ -83,3 +83,6 @@ https://speakerdeck.com/nneu/b-testing-a-bayesian-approach
 https://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/
 
 http://sl8r000.github.io/ab_testing_statistics/use_a_hierarchical_model/
+
+books
+http://greenteapress.com/thinkstats/
