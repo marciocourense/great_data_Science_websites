@@ -50,6 +50,8 @@ https://www.linkedin.com/pulse/apache-spark-rdd-vs-dataframe-dataset-chandan-pra
 
 https://www.youtube.com/watch?v=sjtSo-YWCjc
 
+https://www.coursera.org/learn/machine-learning/lecture/S1bq1/choosing-the-number-of-principal-components
+
 Preparation for interviews
 
 http://www.kdnuggets.com/2017/02/17-data-science-interview-questions-answers-part-2.html?utm_content=bufferb4731&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
