@@ -6,8 +6,6 @@ https://www.kaggle.com/arthurtok/titanic/introduction-to-ensembling-stacking-in-
 
 http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial
 
-http://greenteapress.com/thinkstats/
-
 https://www.linkedin.com/pulse/apache-spark-rdd-vs-dataframe-dataset-chandan-prakash
 
 Clustering
