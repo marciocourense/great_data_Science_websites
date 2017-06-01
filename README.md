@@ -1,5 +1,15 @@
 # great_data_Science_websites
 
+Next reads
+
+https://www.kaggle.com/arthurtok/titanic/introduction-to-ensembling-stacking-in-python
+
+http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial
+
+http://greenteapress.com/thinkstats/
+
+https://www.linkedin.com/pulse/apache-spark-rdd-vs-dataframe-dataset-chandan-prakash
+
 Clustering
 
 https://joernhees.de/blog/2015/08/26/scipy-hierarchical-clustering-and-dendrogram-tutorial/
@@ -38,20 +48,6 @@ http://stackoverflow.com/questions/27824954/how-to-handle-missing-nans-for-machi
 
 https://pypi.python.org/pypi/fancyimpute
 
-Next reads
-
-https://www.kaggle.com/arthurtok/titanic/introduction-to-ensembling-stacking-in-python
-
-http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial
-
-http://greenteapress.com/thinkstats/
-
-https://www.linkedin.com/pulse/apache-spark-rdd-vs-dataframe-dataset-chandan-prakash
-
-https://www.youtube.com/watch?v=sjtSo-YWCjc
-
-https://www.coursera.org/learn/machine-learning/lecture/S1bq1/choosing-the-number-of-principal-components
-
 Preparation for interviews
 
 http://www.kdnuggets.com/2017/02/17-data-science-interview-questions-answers-part-2.html?utm_content=bufferb4731&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
@@ -83,6 +79,9 @@ https://speakerdeck.com/nneu/b-testing-a-bayesian-approach
 https://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/
 
 http://sl8r000.github.io/ab_testing_statistics/use_a_hierarchical_model/
+
+PCA
+https://www.coursera.org/learn/machine-learning/lecture/S1bq1/choosing-the-number-of-principal-components
 
 books
 http://greenteapress.com/thinkstats/
