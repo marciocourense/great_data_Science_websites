@@ -8,6 +8,8 @@ http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial
 
 https://www.linkedin.com/pulse/apache-spark-rdd-vs-dataframe-dataset-chandan-prakash
 
+https://www.linkedin.com/pulse/apache-spark-rdd-vs-dataframe-dataset-chandan-prakash
+
 Clustering
 
 https://joernhees.de/blog/2015/08/26/scipy-hierarchical-clustering-and-dendrogram-tutorial/
