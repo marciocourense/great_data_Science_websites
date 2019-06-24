@@ -83,6 +83,12 @@ http://sl8r000.github.io/ab_testing_statistics/use_a_hierarchical_model/
 PCA
 https://www.coursera.org/learn/machine-learning/lecture/S1bq1/choosing-the-number-of-principal-components
 
+Spark
+https://hackernoon.com/tutorial-aws-glue-billing-report-with-pyspark-with-unittest-fbda9042b470
+https://medium.com/@ntnmathur/cluster-by-and-clustered-by-in-spark-sql-9af7f8b80978
+https://jaceklaskowski.gitbooks.io/mastering-spark-sql/spark-sql-bucketing.htmlhttps://databricks.com/session/apache-spark-on-kubernetes-clusters
+https://www.slideshare.net/SparkSummit/understanding-memory-management-in-spark-for-fun-and-profit
+
 books
 http://greenteapress.com/thinkstats/
 
