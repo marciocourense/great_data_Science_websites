@@ -88,10 +88,10 @@ https://hackernoon.com/tutorial-aws-glue-billing-report-with-pyspark-with-unitte
 https://medium.com/@ntnmathur/cluster-by-and-clustered-by-in-spark-sql-9af7f8b80978
 https://jaceklaskowski.gitbooks.io/mastering-spark-sql/spark-sql-bucketing.htmlhttps://databricks.com/session/apache-spark-on-kubernetes-clusters
 https://www.slideshare.net/SparkSummit/understanding-memory-management-in-spark-for-fun-and-profit
+https://www.slideshare.net/StampedeCon/choosing-an-hdfs-data-storage-format-avro-vs-parquet-and-more-stampedecon-2015
 
 books
 http://greenteapress.com/thinkstats/
-
 https://github.com/joelgrus/data-science-from-scratch
 
 
