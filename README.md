@@ -95,3 +95,5 @@ http://greenteapress.com/thinkstats/
 https://github.com/joelgrus/data-science-from-scratch
 
 
+#JAVA
+https://stackoverflow.com/questions/37235428/convert-string-into-nested-arraylist-in-java#37239008
